@@ -16,11 +16,12 @@
 - English – IELTS 6.5 (equivalent to B2, upper-intermediate)
 ## Projects
 - ### 1. [https://github.com/vietduybaka/algorithm-practice](https://github.com/VietDuybaka/projectkhkt)
-- This is my Science & Technology Competition Project, designed for room rental management, advertisement posting, and security monitoring. It also features a fire alarm system for safety alerts.  
-- **(The original template/codebase was sourced from Codex)**
+This is my Science & Technology Competition Project, designed for room rental management, advertisement posting, and security monitoring. It also features a fire alarm system for safety alerts.<br>
+Collaborated with https://github.com/Soul-dev17  
+**(The original template/codebase was sourced from Codex)**
 - ### 2. https://github.com/VietDuybaka/sinhoc
-- Another static website in my high school project. This website was developed to support biology studies, providing educational content and resources for students.  
-- **(The original template/codebase was sourced from Codex)**
+Another static website in my high school project. This website was developed to support biology studies, providing educational content and resources for students.   
+**(The original template/codebase was sourced from Codex)**  
 
 
 
