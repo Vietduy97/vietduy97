@@ -3,7 +3,7 @@
 - Hello world, I'm Việt Duy - a first-year IT student.  
 - Or you can call me Alan.  
 - My main email: Duy007459@gmail.com.  
-- Studying Computer Science / Data Science at UET.
+- Studying Computer Science at UET.
 - My main goal is to work as a BA, DA, or  DE — all about data and customers, supported and optimized by my coding and technical skills.
 # Skills and Projects
 ## Technical 
