@@ -11,6 +11,7 @@
 - **C++** – Beginner   
 - **Pascal**(2 years) – Beginner (inactive)
 - **HTML** – Beginner
+- **JAVA** - Beginner
 ## Languages 
 - Vietnamese - Native
 - English – IELTS 6.5 (equivalent to B2, upper-intermediate)
