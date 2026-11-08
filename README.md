@@ -4,8 +4,7 @@
 - Or you can call me Alan.  
 - My main email: Duy007459@gmail.com.  
 - Studying Computer Science at UET.
-- My current CPA is 3.2/4.
-- My main goal is to work as a BA, DA, or  DE — all about data and customers, supported and optimized by my coding and technical skills.
+- My main goal is to work as a DA, DE or  DS — all about data and customers, supported and optimized by my coding and technical skills.
 # Skills and Projects
 ## Technical 
 - **Python** – Beginner    
